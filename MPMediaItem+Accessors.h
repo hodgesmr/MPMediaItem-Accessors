@@ -1,6 +1,6 @@
 //
 //  MPMediaItem+Accessors.h
-//  MPMediaItem+Accessors (https://github.com/hodgesmr/CoderNews)
+//  MPMediaItem+Accessors (https://github.com/hodgesmr/MPMediaItem-Accessors)
 //
 //  Created by Matt Hodges on 2014-05-28.
 //  Copyright (c) 2014 Matt Hodges (http://matthodges.com)
